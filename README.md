@@ -1,0 +1,2 @@
+# bijia
+react-native
