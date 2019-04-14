@@ -88,7 +88,7 @@ export const AppStackNavigator = createStackNavigator({
   HomePage: {
     screen: HomePage,
     navigationOptions: {
-      title: 'Home'
+      title: '首页'
     }
   },
   Page1: {
